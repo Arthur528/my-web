@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-menu{
+    text-align: center;
+    background-color: darkred;
+    color: blue;
+    text-align: right;
+    padding: 20px;
+}
+
+.top-menu ul li{
+    display: inline;
+    margin: 0px, 5px, 0px, 5px;
+}
+
+.main-content{
+text-align: center;
+background-color: aquamarine;
+border-radius: 10px, solid,  darkblue;
+}
+
+.main-content hi{
+
+}
+
+.main-content img{
+
+}
+
+.main-content p{
+
+}
+
+.lower-content{
+    text-align: center;
+    background-color: deeppink;
+
+}
